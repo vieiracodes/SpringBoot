@@ -3,7 +3,7 @@ package gabriel.io.entity;
 import javax.persistence.*;
 
 @Entity
-public class usuario {
+public class Usuario {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
